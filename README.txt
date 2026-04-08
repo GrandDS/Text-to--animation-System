@@ -1,7 +1,7 @@
 Text to Image System
 
 Description:
-A demonstration architecture for prompt-based visual generation workflows.
+A demonstration architecture for prompt-based animation generation workflows.
 
 Run:
 python main.py
