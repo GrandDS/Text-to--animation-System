@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# PyCharm / IDE
+.idea/
+*.iml
+.vscode/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Generated application output
+history.json
+*.mp4
+*.mov
+*.avi
+*.mkv
+output/
+outputs/
+renders/
+frames/
+
+# OS files
+.DS_Store
+Thumbs.db

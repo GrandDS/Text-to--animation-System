@@ -1,0 +1,9 @@
+requests
+PyQt6
+numpy
+Pillow
+torch
+diffusers
+transformers
+accelerate
+safetensors
